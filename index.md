@@ -46,8 +46,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
 
 
-<div id="projects">  # Exoplanet Database </div>
+<div id="projects"> </div>
 
+ # Exoplanet Database
+ 
 <li> Operated with a team of 5 developers in an agile environment to provide updates to the catalogue based on new planet discoveries </li>
 <li> With the use of <b>Python</b> and various libraries such as parser was used convert new discovered data into OE compatible data for merge request </li>
 <li> Strong knowledge in <b>algorithm design</b> and <b>data structures</b> was used in order to read and parse new planet information to save time complexity </li>
