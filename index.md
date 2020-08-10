@@ -1,4 +1,4 @@
-<a href='../Projects.md'>Projects</a>
+<a href="../#projects">Projects</a>
 # ABOUT ME
 
 I am a recent graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
@@ -44,3 +44,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
+
+<div id="photo">
+  test       
+</div>
