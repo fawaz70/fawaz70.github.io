@@ -1,3 +1,4 @@
+<a href='../Projects.md'>Projects</a>
 # ABOUT ME
 
 I am a recent graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
