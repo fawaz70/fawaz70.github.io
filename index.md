@@ -6,7 +6,7 @@ I have acquired many valuable technical skills, as a Computer Scientist. I have 
 
 To compliment my technical skills, I was able to strengthen my interpersonal, communication and leadership skills, which I obtained while leading projects as a Junior Business Analyst at Environment Canada.
 
-During my personal time, I enjoy reading, watching documentaries, and 
+During my personal time, I enjoy reading, watching documentaries, and the great outdoors. 
 
 <!-- You can use the [editor on GitHub](https://github.com/fawaz70/fawazpirzada.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
