@@ -48,7 +48,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <div id="projects"> </div>
 
-# EXOPLANET DATABASE
+# PROJECTS
+
+## EXOPLANET DATABASE
  
 <li> Operated with a team of 5 developers in an agile environment to provide updates to the catalogue based on new planet discoveries </li>
 <li> With the use of <b>Python</b> and various libraries such as parser was used convert new discovered data into OE compatible data for merge request </li>
