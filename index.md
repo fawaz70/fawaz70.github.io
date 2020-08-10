@@ -9,7 +9,7 @@ To compliment my technical skills, I was able to strengthen my interpersonal, co
 
 During my personal time, I enjoy reading, watching documentaries, and the great outdoors. 
 
-You can use the [editor on GitHub](https://github.com/fawaz70/fawazpirzada.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/fawaz70/fawazpirzada.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 
@@ -43,43 +43,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
 
 
-<div id="projects">
-  test       
-</div>
+id="projects"
 
-dsfsdf
-sd
-fsd
-fsd
-fs
-dfs
-df
-sdf
-sdf
-sd
-fsd
-fsd
-f
-sdf
-sdf
-sd
-fsd
-fs
-df
-sdf
-sd
-fs
-df
-sdf
-sd
-fsd
-f
-sdf
-sdf
-sd
-fd
-fs
-df
+# Exoplanet Database
+
+<li> Operated with a team of 5 developers in an agile environment to provide updates to the catalogue based on new planet discoveries </li>
+<li> With the use of <b>Python</b> and various libraries such as parser was used convert new discovered data into OE compatible data for merge request </li>
+<li> Strong knowledge in <b>algorithm design</b> and <b>data structures</b> was used in order to read and parse new planet information to save time complexity </li>
+<li> For testing phase of the project, unit and integration testing approach was used to ensure correct operation of the functionalities </li>
+<li> Conducting weekly sprint meetings to ensure the progress and future obstacles of the project was a crucial aspect of the project </li>
+<li> <b>Github</b> was used as a code respository and Slack used as primary communication </li>
