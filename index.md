@@ -51,6 +51,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # PROJECTS
 
 ## EXOPLANET DATABASE
+
+The objective of the project was to provide updates the clients personal OpenExoplanet Catalogue-which carries information about various planets outside our solar system. We took the clients personal database and added to it the NASA database as well as the exoplanet EU database. This project requires the program to provide upgrades to the catalogue as new planet discoveries are made. For successful operation of this project, various tools and skills were required, which are described below:
  
 <li> Operated with a team of 5 developers in an agile environment to provide updates to the catalogue based on new planet discoveries </li>
 <li> With the use of <b>Python</b> and various libraries such as parser was used convert new discovered data into OE compatible data for merge request </li>
@@ -58,3 +60,24 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <li> For testing phase of the project, unit and integration testing approach was used to ensure correct operation of the functionalities </li>
 <li> Conducting weekly sprint meetings to ensure the progress and future obstacles of the project was a crucial aspect of the project </li>
 <li> <b>Github</b> was used as a code respository and Slack used as primary communication </li>
+
+## MATPLOTLIB-CONTRIBUTION
+
+The Objective of the project was to analyze bugs in <b>Matplotlib</b>-data plotting library in <b>Python</b>. Furthurmore, analyze the code and the design in order to provide an efficient fix to the bug.
+ 
+<li> In a team of 8 developers set in an agile environment conducting analysis on the matplotlib to locate the bug </li>
+<li> Extensive analysis was required on the library in order to further determine the design pattern of the bug </li>
+<li> Various roles are played throughout different phases of the project, including scrum, developer and tester </li>
+<li> Using different tools such as Trello and Github for task board and main respository respectively </li>
+<li> In order to ensure completion of the bug, extensive unit and integration testing were performed </li>
+<li> Strong communication, leadership and project management skills were acquired through weekly scrum meetings </li>
+
+## UX DESIGN PROJECT
+
+Objective of the project was to analyze the current TTC website to determine any user experience heuristics violations. Throughout the project, conduct an analysis report regarding the design and present the findings of the analysis
+ 
+<li> In a group of 4, analyze the website for user experience characteristics for certain functionalities </li>
+<li> Conduct weekly meetings to dicuss the research findings of each functionality in the website </li>
+<li> Perform different methods of surveys of the website users to further understand user experience </li>
+<li> Provide an demo solution for the chosen functionalities to improve user experience using the <b>Justinmind</b> tool </li>
+<li> We wrote and presented analysis reports to the remaining groups with the use of my strong effective communication skills </li>
