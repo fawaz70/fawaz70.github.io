@@ -50,3 +50,12 @@ Objective of the project was to analyze the current TTC website to determine any
 <li> Perform different methods of surveys of the website users to further understand user experience </li>
 <li> Provide an demo solution for the chosen functionalities to improve user experience using the <b>Justinmind</b> tool </li>
 <li> We wrote and presented analysis reports to the remaining groups with the use of my strong effective communication skills </li>
+
+<hr color="white">
+## FLIGHT ITINERARY
+<hr color="white">
+
+Objective of the project was to design a flight itinerary application using <b>Android Studio</b> and <b>Java</b>. In this application, we designed an algorithm that would take the shortest path from one destination to another(Ex. Toronto to Dubai).
+ 
+<li> Implemented a shortest path algorithm to search for flights and store the information into a CSV file with the use of <b>Java, Android Studio, Subversion, Objected Oriented Programming and Observer Design Pattern</b> </li>
+<li> Interacted closely with three other members within a four-month timeframe designing the android front and backend </li>
