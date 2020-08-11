@@ -61,6 +61,7 @@ The objective of the project was to provide updates the clients personal OpenExo
 <li> Conducting weekly sprint meetings to ensure the progress and future obstacles of the project was a crucial aspect of the project </li>
 <li> <b>Github</b> was used as a code respository and Slack used as primary communication </li>
 
+<hr color="white">
 
 ## MATPLOTLIB-CONTRIBUTION
 
