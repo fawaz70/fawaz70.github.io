@@ -50,7 +50,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # PROJECTS
 
+<hr color="white">
 ## EXOPLANET DATABASE
+<hr color="white">
 
 The objective of the project was to provide updates the clients personal OpenExoplanet Catalogue-which carries information about various planets outside our solar system. We took the clients personal database and added to it the NASA database as well as the exoplanet EU database. This project requires the program to provide upgrades to the catalogue as new planet discoveries are made. For successful operation of this project, various tools and skills were required, which are described below:
  
@@ -62,8 +64,8 @@ The objective of the project was to provide updates the clients personal OpenExo
 <li> <b>Github</b> was used as a code respository and Slack used as primary communication </li>
 
 <hr color="white">
-
 ## MATPLOTLIB-CONTRIBUTION
+<hr color="white">
 
 The Objective of the project was to analyze bugs in <b>Matplotlib</b>-data plotting library in <b>Python</b>. Furthurmore, analyze the code and the design in order to provide an efficient fix to the bug.
  
@@ -74,8 +76,9 @@ The Objective of the project was to analyze bugs in <b>Matplotlib</b>-data plott
 <li> In order to ensure completion of the bug, extensive unit and integration testing were performed </li>
 <li> Strong communication, leadership and project management skills were acquired through weekly scrum meetings </li>
 
-
+<hr color="white">
 ## UX DESIGN PROJECT
+<hr color="white">
 
 Objective of the project was to analyze the current TTC website to determine any user experience heuristics violations. Throughout the project, conduct an analysis report regarding the design and present the findings of the analysis
  
