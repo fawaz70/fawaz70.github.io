@@ -1,5 +1,5 @@
 <a href="../#projects">Projects</a> <a href="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/Resume%20for%20Computer%20Science.pdf">Resume</a>
-# ABOUT ME
+# ABOUT ME <img src=https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/fawaz1.jpg>
 
 I am a recent graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
 
