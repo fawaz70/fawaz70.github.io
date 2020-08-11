@@ -61,6 +61,7 @@ The objective of the project was to provide updates the clients personal OpenExo
 <li> Conducting weekly sprint meetings to ensure the progress and future obstacles of the project was a crucial aspect of the project </li>
 <li> <b>Github</b> was used as a code respository and Slack used as primary communication </li>
 
+
 ## MATPLOTLIB-CONTRIBUTION
 
 The Objective of the project was to analyze bugs in <b>Matplotlib</b>-data plotting library in <b>Python</b>. Furthurmore, analyze the code and the design in order to provide an efficient fix to the bug.
@@ -71,6 +72,7 @@ The Objective of the project was to analyze bugs in <b>Matplotlib</b>-data plott
 <li> Using different tools such as Trello and Github for task board and main respository respectively </li>
 <li> In order to ensure completion of the bug, extensive unit and integration testing were performed </li>
 <li> Strong communication, leadership and project management skills were acquired through weekly scrum meetings </li>
+
 
 ## UX DESIGN PROJECT
 
