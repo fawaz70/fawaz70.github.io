@@ -1,4 +1,4 @@
-<a href="../#projects">Projects</a> <a href="../resume">Resume</a>
+<a href="../#projects">Projects</a> <a href="../Resume for Computer Science.pdf">Resume</a>
 # ABOUT ME
 
 I am a recent graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
