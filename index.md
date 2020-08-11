@@ -59,3 +59,12 @@ Objective of the project was to design a flight itinerary application using <b>A
  
 <li> Implemented a shortest path algorithm to search for flights and store the information into a CSV file with the use of <b>Java, Android Studio, Subversion, Objected Oriented Programming and Observer Design Pattern</b> </li>
 <li> Interacted closely with three other members within a four-month timeframe designing the android front and backend </li>
+
+<hr color="white">
+## ONLINE WEB ART GALLARY
+<hr color="white">
+
+Objective of the project was to design a website from scratch that allows the user to upload/delete pictures which is stored into a database, which then the user can add/delete comments for each picture. 
+ 
+<li> Implemented the entire front-end using <b>HTML, CSS, and Javascript</b> </li>
+<li> Designed the entire back-end using <b>NodeJs</b> </li>
