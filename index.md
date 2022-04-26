@@ -3,7 +3,9 @@
 
 <img src="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/fawaz_profile.jpg?raw=true" width="375" height="375">
 
-I am a recent graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
+I am a graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
+
+My current role as a Software Developer involves managing our in-house application to help provide lawyers and case analysts time saving solutions. Additionally, I manage the web pages that our firm and clients use. Majority of my work revolves around C# and SQL Server with some knowledge and use of ASP.NET.
 
 I have acquired many valuable technical skills, as a Computer Scientist. I have thorough knowledge of Python, Java, C, and SQL. With the help of multiple projects, I was able to gain strong skills in Agile methodologies. Apart from these, my keen interest in front-end development has allowed me to learn other languages such as HTML, CSS, and JavaScript. Over the years, I was also able to strengthen theoretical aspects of Computer Science, including Object-Oriented Programming, Space-Time Complexity, Data Structures, and Memory Management.
 
