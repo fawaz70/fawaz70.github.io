@@ -1,4 +1,4 @@
-<a href="../#projects">Projects</a> <a href="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/Resume%20for%20Computer%20Science%20-%202021.pdf">Resume</a>
+<a href="../#projects">Projects</a> <a href="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/Resume-for-Computer-Science-2022.pdf">Resume</a>
 # ABOUT ME 
 
 <img src="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/fawaz1.jpg?raw=true" width="375" height="375">
