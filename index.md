@@ -5,7 +5,7 @@
 
 I am a recent graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
 
-I have acquired many valuable technical skills, as a Computer Scientist. I have thorough knowledge of Python, Java, C, and SQL. With the help of multiple projects, I was able to gain strong skills in Agile methodologies. Apart from these, my keen interest in front-end development has allowed me to learn other languages such as HTML, CSS, JavaScript, and XML. Over the years, I was also able to strengthen theoretical aspects of Computer Science, including Object-Oriented Programming, Space-Time Complexity, and Memory Management.
+I have acquired many valuable technical skills, as a Computer Scientist. I have thorough knowledge of Python, Java, C, and SQL. With the help of multiple projects, I was able to gain strong skills in Agile methodologies. Apart from these, my keen interest in front-end development has allowed me to learn other languages such as HTML, CSS, and JavaScript. Over the years, I was also able to strengthen theoretical aspects of Computer Science, including Object-Oriented Programming, Space-Time Complexity, Data Structures, and Memory Management.
 
 To compliment my technical skills, I was able to strengthen my interpersonal, communication and leadership skills, which I obtained while leading projects as a Junior Business Analyst at Environment Canada.
 
