@@ -1,12 +1,13 @@
-<a href="../#projects">Projects</a> <a href="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/Resume-for-Computer-Science-2022.pdf">Resume</a>
+<a href="../#projects">Projects</a> <a href="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/Resume%20for%20Computer%20Science%20March%202025.pdf">Resume</a>
 # ABOUT ME 
 
 <img src="https://github.com/fawaz70/fawaz70.github.io/blob/gh-pages/fawaz_profile.jpg?raw=true" width="375" height="375">
 
 I am a graduate from the University of Toronto, with an Honors Bachelors of Science in Computer Science, specializing in Software Engineering.
 
-My current role as a Software Developer involves managing our in-house application to help provide lawyers and case analysts time saving solutions. Additionally, I manage the web pages that our firm and clients use. Majority of my work revolves around C# and SQL Server with some knowledge and use of ASP.NET.
+In my current role as a Java Application Developer at Teranet Inc., I am responsible for enhancing microservice applications using Java, Spring Boot, and Maven, while implementing updates and new features. My work involves working with SOAP and REST APIs and managing databases such as PostgreSQL, MSSQL, and Oracle SQL. I also handle CI/CD processes using tools like Jenkins and the OpenShift platform, ensuring smooth development, testing, and deployment cycles.
 
+In my previous role as a Software Developer, I managed and enhanced in-house applications that provided time-saving solutions for lawyers and case analysts. I was also responsible for managing web pages used by both our firm and clients, focusing primarily on C# and SQL Server development, with some exposure to ASP.NET.
 I have acquired many valuable technical skills, as a Computer Scientist. I have thorough knowledge of Python, Java, C, and SQL. With the help of multiple projects, I was able to gain strong skills in Agile methodologies. Apart from these, my keen interest in front-end development has allowed me to learn other languages such as HTML, CSS, and JavaScript. Over the years, I was also able to strengthen theoretical aspects of Computer Science, including Object-Oriented Programming, Space-Time Complexity, Data Structures, and Memory Management.
 
 To compliment my technical skills, I was able to strengthen my interpersonal, communication and leadership skills, which I obtained while leading projects as a Junior Business Analyst at Environment Canada.
